@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Nothing yet, comming soon... or never 😄
+Comming soon...
 
 <!--
 
